@@ -3,7 +3,7 @@ title : "A1 - Static web hosting"
 date : "`r Sys.Date()`"
 weight : 4
 chapter : false
-pre : " <b> 4. </b> "
+pre : " <b> 4.3 </b> "
 ---
 
 ## Overview
@@ -13,9 +13,8 @@ In this step we will take the first challenge in **Cloud Quest**.
 ## Content
 
 - [Learn](4.1-learn/)
-- [Plan](4.2-plan/)
-- [Practice](4.3-practice/)
-- [DIY](4.4-diy/)
+- [Practice](4.2-practice/)
+- [DIY](4.3-diy/)
 
 
 ## Perform

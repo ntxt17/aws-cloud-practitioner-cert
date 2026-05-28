@@ -3,7 +3,7 @@ title : "A1 - Hosting a Static Website on Amazon S3"
 date :  "`r Sys.Date()`" 
 weight : 4
 chapter : false
-pre : " <b> 4. </b> "
+pre : " <b> 4.3 </b> "
 ---
 
 ## Tổng quan
@@ -13,9 +13,8 @@ Trong bước này chúng ta sẽ thực hiện thử thách đầu tiên trong 
 ## Nội dung
 
 - [Learn](4.1-learn/)
-- [Plan](4.2-plan/)
-- [Practice](4.3-practice/)
-- [DIY](4.4-diy/)
+- [Practice](4.2-practice/)
+- [DIY](4.3-diy/)
 
 
 ## Thực hiện 
